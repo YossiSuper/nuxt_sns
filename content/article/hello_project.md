@@ -1,9 +1,7 @@
 ---
-title: '新たなSNS'
+title: 'プロジェクト概要'
 description: 'このプロジェクトの概要を説明しましょう。'
 ---
-
-Twitterで見かける論争に疲れていませんか？
 
 ## Writing content
 

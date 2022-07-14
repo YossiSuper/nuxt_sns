@@ -1,8 +1,11 @@
 <template>
+  <v-card>
     <article>
-        <h1>{{article.title}}</h1>
+        <h1 class="text-h2">{{article.title}}</h1>
+        <p class="font-weight-light">{{article.description}}</p>
         <nuxt-content :document="article" />
     </article>
+  </v-card>
 </template>
 
 <script>
